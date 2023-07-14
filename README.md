@@ -1,16 +1,24 @@
-### Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi I'm PO 👋</h1></summary>
+  </ul>
+</div>
 
-<!--
-**SanditZZ/sanditzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+- I started my professional career from being a marketing officer, game designer, and web project coordinator.
+- I'm now learning web development every single day to become a frontend developer.
+- Please reach out to me if you have any questions!
 
-Here are some ideas to get you started:
+<h2 style="display: inline-block">Technologies</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,mysql,nextjs,react,tailwind,vscode&perline=14" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+[![@kk.pon3@gmail.com](https://img.icons8.com/fluency/64/000000/apple-mail.png)](mailto:kk.pon3@gmail.com)
+[![@kittipon-tantirittisak](https://img.icons8.com/fluency/64/000000/linkedin.png "@kittipon-tantirittisak")](https://www.linkedin.com/in/kittipon-tantirittisak/)
+
+#
+![Github stats](https://github-readme-stats.vercel.app/api?username=sanditzz&hide=stars,prs&theme=algolia)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanditzz&layout=compact&theme=algolia)
