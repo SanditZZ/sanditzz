@@ -10,9 +10,11 @@
 - Please reach out to me if you have any questions!
 
 <h2 style="display: inline-block">Technologies</h2>
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,mysql,nextjs,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,vscode,github,mysql,nextjs,react,tailwind,wordpress,pr,ps,unity&perline=15" />
   </a>
+  </p>
 
 ## Connect with Me
 [![@kk.pon3@gmail.com](https://img.icons8.com/fluency/64/000000/apple-mail.png)](mailto:kk.pon3@gmail.com)
