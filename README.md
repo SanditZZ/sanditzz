@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi I'm PO 👋</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm PO 👋</h1></summary>
   </ul>
 </div>
 
@@ -8,6 +8,8 @@
 - I started my professional career from being a marketing officer, game designer, and web project coordinator.
 - I'm now learning web development every single day to become a frontend developer.
 - Please reach out to me if you have any questions!
+
+[Check out my portfolio website](https://sanditzz.github.io/3d-portfolio-po/)
 
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
