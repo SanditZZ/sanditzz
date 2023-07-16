@@ -9,7 +9,12 @@
 - I'm now learning web development every single day to become a frontend developer.
 - Please reach out to me if you have any questions!
 
-[Check out my portfolio website](https://sanditzz.github.io/3d-portfolio-po/)
+## [Portfolio Website](https://sanditzz.github.io/3d-portfolio-po/)
+**[Check out my portfolio website](https://sanditzz.github.io/3d-portfolio-po/)** where I have my work experience and projects written down and displayed.
+<br>
+
+[<img src="https://sanditzz.github.io/3d-portfolio-po/assets/portfolio-web-91c19e49.png" alt="Portfolio Website" style="object-fit: cover; width: 100vw; height: auto;">](https://sanditzz.github.io/3d-portfolio-po/)
+
 
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
