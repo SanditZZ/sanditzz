@@ -19,7 +19,7 @@
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,vscode,github,mysql,nextjs,react,tailwind,wordpress,pr,ps,unity&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,ts,js,react,vue,tailwind,mysql,figma,vscode,github,pr,ps,unity&perline=15" />
   </a>
   </p>
 
