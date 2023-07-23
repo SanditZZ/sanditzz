@@ -28,6 +28,6 @@
 [![@kittipon-tantirittisak](https://img.icons8.com/fluency/64/000000/linkedin.png "@kittipon-tantirittisak")](https://www.linkedin.com/in/kittipon-tantirittisak/)
 
 #
-![Github stats](https://github-readme-stats.vercel.app/api?username=sanditzz&hide=stars,prs&theme=algolia)
-<br><br>
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=sanditzz&hide=stars,prs&theme=algolia)
+<br><br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanditzz&layout=compact&theme=algolia)
