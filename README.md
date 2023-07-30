@@ -13,7 +13,7 @@
 **[Check out my portfolio website](https://sanditzz.github.io/3d-portfolio-po/)** where I have my work experience and projects written down and displayed.
 <br>
 
-[<img src="https://sanditzz.github.io/3d-portfolio-po/assets/portfolio-web-91c19e49.png" alt="Portfolio Website" style="object-fit: cover; width: 100vw; height: auto;">](https://sanditzz.github.io/3d-portfolio-po/)
+[<img src="https://sanditzz.github.io/3d-portfolio-po/assets/portfolio-web-08c74796.webp" alt="Portfolio Website" style="overflow: hidden; object-fit: cover; object-position: center; width: 100vw; height: auto;">](https://sanditzz.github.io/3d-portfolio-po/)
 
 
 <h2 style="display: inline-block">Technologies</h2>
@@ -31,3 +31,5 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=sanditzz&hide=stars,prs&theme=algolia)
 <br><br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanditzz&layout=compact&theme=algolia)
+
+##  Check out my pinned projects below :point_down:
