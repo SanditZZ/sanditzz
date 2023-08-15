@@ -6,7 +6,7 @@
 
 ## Introduction
 - I started my professional career from being a marketing officer, game designer, and web project coordinator.
-- I'm now learning web development every single day to become a frontend developer.
+- I'm now learning web development every single day to become a web developer.
 - Please reach out to me if you have any questions!
 
 ## [Portfolio Website](https://sanditzz.github.io/3d-portfolio-po/)
