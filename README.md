@@ -9,17 +9,17 @@
 - I'm now learning web development every single day to become a web developer.
 - Please reach out to me if you have any questions!
 
-## [Portfolio Website](https://sanditzz.github.io/3d-portfolio-po/)
-**[Check out my portfolio website](https://sanditzz.github.io/3d-portfolio-po/)** where I have my work experience and projects written down and displayed.
-<br>
-
-[<img src="https://sanditzz.github.io/3d-portfolio-po/assets/portfolio-web-08c74796.webp" alt="Portfolio Website" style="overflow: hidden; object-fit: cover; object-position: center; width: 100vw; height: auto;">](https://sanditzz.github.io/3d-portfolio-po/)
-
+## Projects
+- [🛸 Nuxt Space Website](https://nuxt-space-web.vercel.app/)
+- [🛒 Next Ecommerce Website](https://next-ecommerce-sanditzz.vercel.app/)
+- [🕵️ Nuxt API Website](https://nuxt3-web.netlify.app/)
+- [🐐 3D Portfolio Website](https://sanditzz.github.io/3d-portfolio-po/)
+- [🍦 TypeScript/JavaScript Website](https://sanditzz.github.io/javascript)
 
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,ts,js,react,vue,tailwind,mysql,figma,vscode,github,pr,ps,unity&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,vue,next,nuxt,tailwind,mysql,figma,vscode,github,pr,ps,unity&perline=15" />
   </a>
   </p>
 
@@ -32,4 +32,4 @@
 <br><br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanditzz&layout=compact&theme=algolia)
 
-##  Check out my pinned projects below :point_down:
+<h1 style="display: inline-block"> Check out my other pinned projects below :point_down:</h1>
