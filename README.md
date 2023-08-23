@@ -11,10 +11,13 @@
 
 ## Projects
 - [🛸 Nuxt Space Website](https://nuxt-space-web.vercel.app/) - [Repo](https://github.com/SanditZZ/nuxt-space-web)
+- [✈️ Nuxt Space Website](https://next-flight-web.vercel.app/) - [Repo](https://github.com/SanditZZ/next-flight-web) 🚧 Work In Progress
 - [🛒 Next Ecommerce Website](https://next-ecommerce-sanditzz.vercel.app/) - [Repo](https://github.com/SanditZZ/next-ecommerce)
 - [🕵️ Nuxt API Website](https://nuxt3-web.netlify.app/) - [Repo](https://github.com/SanditZZ/nuxt-web)
 - [🐐 3D Portfolio Website](https://sanditzz.github.io/3d-portfolio-po/) - [Repo](https://github.com/SanditZZ/3d-portfolio-po)
 - [🍦 TypeScript/JavaScript Website](https://sanditzz.github.io/javascript) - [Repo](https://github.com/SanditZZ/javascript)
+
+- https://github.com/SanditZZ/next-flight-web
 
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
