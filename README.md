@@ -14,8 +14,6 @@
 - [✈️ Next Flight Website](https://next-flight-web.vercel.app/)
 - [🛒 Next Ecommerce Website](https://next-ecommerce-sanditzz.vercel.app/)
 - [🕵️ Nuxt API Website](https://nuxt3-web.netlify.app/)
-- [🐐 3D Portfolio Website](https://sanditzz.github.io/3d-portfolio-po/)
-- [🍦 TypeScript/JavaScript Website](https://sanditzz.github.io/javascript)
 
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
