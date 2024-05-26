@@ -9,6 +9,7 @@
 - Please reach out to me if you have any questions!
 
 ## Projects
+- [🎮 CyberIce Studio Website](https://cybericestudio.com/)
 - [🎵 Nuxt YouTube Music Website](https://nuxt-yt-music-web.vercel.app/)
 - [🛸 Nuxt Space Website](https://nuxt-space-web.vercel.app/)
 - [✈️ Next Flight Website](https://next-flight-web.vercel.app/)
