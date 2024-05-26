@@ -6,6 +6,9 @@
 
 ## Introduction
 - I started my professional career from being a marketing officer, game designer, and web project coordinator.
+- Now I'm a web developer learning the TALL Stack (Tailwindcss, Alpine.js, Laravel, Livewire).
+-  Although I'm not an expert, I have some experience with Astro, React.js, and Vue.js.
+- I've also worked in the game development industry using Unity, MySQL Workbench, Jira, Figma, and Git Extensions. 
 - Please reach out to me if you have any questions!
 
 ## Projects
@@ -19,7 +22,7 @@
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,vue,next,nuxt,tailwind,mysql,figma,vscode,github,pr,ps,unity&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,tailwind,ts,php,laravel,alpinejs,sqlite,react,vue,next,nuxt,mysql,vercel,wordpress,figma,vscode,github,pr,ps,unity&perline=15" />
   </a>
   </p>
 
@@ -31,5 +34,3 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=sanditzz&hide=stars,prs&theme=algolia)
 <br><br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanditzz&layout=compact&theme=algolia)
-
-<h1 style="display: inline-block"> Check out my other pinned projects below :point_down:</h1>
