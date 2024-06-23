@@ -13,10 +13,11 @@
 
 ## Projects
 - [🎮 CyberIce Studio Website](https://cybericestudio.com/)
-- [🎵 Nuxt YouTube Music Website](https://nuxt-yt-music-web.vercel.app/)
-- [🛸 Nuxt Space Website](https://nuxt-space-web.vercel.app/)
-- [✈️ Next Flight Website](https://next-flight-web.vercel.app/)
-- [🛒 Next Ecommerce Website](https://next-ecommerce-sanditzz.vercel.app/)
+- [🎵 YouTube Music Website](https://nuxt-yt-music-web.vercel.app/)
+- [🛸 Space Website](https://nuxt-space-web.vercel.app/)
+- [✈️ Flight Website](https://next-flight-web.vercel.app/)
+- [🛒 Ecommerce Website](https://next-ecommerce-sanditzz.vercel.app/)
+- [🌀 Metaverse Website](https://next-metaverse-web.vercel.app/)
 - [🕵️ Nuxt API Website](https://nuxt3-web.netlify.app/)
 
 <h2 style="display: inline-block">Technologies</h2>
