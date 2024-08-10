@@ -5,10 +5,8 @@
 </div>
 
 ## Introduction
-- I started my professional career from being a marketing officer, game designer, and web project coordinator.
-- Now I'm a web developer learning the TALL Stack (Tailwindcss, Alpine.js, Laravel, Livewire).
--  Although I'm not an expert, I have some experience with Astro, React.js, and Vue.js.
-- I've also worked in the game development industry using Unity, MySQL Workbench, Jira, Figma, and Git Extensions. 
+- I'm a web developer using mainly the MERN Stack (MongoDB, Express, React, Node).
+- I've also worked in the game development industry using Unity. 
 - Please reach out to me if you have any questions!
 
 ## Projects
