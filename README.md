@@ -9,7 +9,10 @@
 - I've also worked in the game development industry using Unity. 
 - Please reach out to me if you have any questions!
 
-## Projects
+## Portfolio
+- [Check out my portfolio here](https://portfolio-sanditzz.vercel.app/)
+
+<!--
 - [🎮 CyberIce Studio Website](https://cybericestudio.com/)
 - [🎵 YouTube Music Website](https://nuxt-yt-music-web.vercel.app/)
 - [🛸 Space Website](https://nuxt-space-web.vercel.app/)
@@ -17,6 +20,7 @@
 - [🛒 Ecommerce Website](https://next-ecommerce-sanditzz.vercel.app/)
 - [🌀 Metaverse Website](https://next-metaverse-web.vercel.app/)
 - [🕵️ Nuxt API Website](https://nuxt3-web.netlify.app/)
+-->
 
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
