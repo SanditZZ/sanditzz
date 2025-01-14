@@ -5,8 +5,7 @@
 </div>
 
 ## Introduction
-- I'm a web developer using mainly the MERN Stack (MongoDB, Express, React, Node).
-- I've also worked in the game development industry using Unity. 
+- I'm a full-stack web developer.
 - Please reach out to me if you have any questions!
 
 ## Portfolio
@@ -25,7 +24,7 @@
 <h2 style="display: inline-block">Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,tailwind,ts,php,laravel,alpinejs,sqlite,react,vue,next,nuxt,mysql,vercel,wordpress,figma,vscode,github,pr,ps,unity&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,next,tailwind,ts,php,laravel,alpinejs,sqlite,react,vue,nuxt,mysql,vercel,wordpress,figma,vscode,github,pr,ps,unity&perline=15" />
   </a>
   </p>
 
