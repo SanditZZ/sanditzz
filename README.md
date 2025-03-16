@@ -9,7 +9,7 @@
 - Please reach out to me if you have any questions!
 
 ## Portfolio
-- [Check out my portfolio here](https://portfolio-sanditzz.vercel.app/)
+- [Check out my links here](https://linktr.ee/powork)
 
 <!--
 - [🎮 CyberIce Studio Website](https://cybericestudio.com/)
